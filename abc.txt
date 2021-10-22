@@ -1,3 +1,11 @@
 kdjafllkdjja;lfskjalsk;jdflajflalfdk;afj
 
 lkaldjsf;klajsfla;jf;la;
+sub() {
+adkfjakfjl;a
+}
+
+main() {
+result = add(a, b) * sub(a, b);
+
+}
